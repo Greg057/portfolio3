@@ -1,0 +1,407 @@
+{
+  "personal": {
+    "full_name": "Jane Doe",
+    "title": "Software Engineer",
+    "about_me": "Detail-oriented Software Engineer with 4+ years of experience developing and maintaining scalable web applications. Skilled in modern programming languages, cloud platforms, and Agile methodologies. Strong collaborator with a track record of delivering high-quality software on time and within scope. Passionate about building user-friendly solutions and continuously learning emerging technologies such as artificial intelligence, machine learning, and cloud-native applications.",
+    "location": "San Francisco, CA",
+    "avatarUrl": "/p3/user-files/avatar/random-question-but-does-anyone-have-versions-of-this-cat-v0-ya8qikz9kn0f1.webp-1759564668879.webp",
+    "cvUrl": "/p3/user-files/cv.pdf",
+    "custom_links": [
+      {
+        "icon": "email",
+        "title": "Email",
+        "url": "jane.doe@email.com"
+      },
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "url": "https://linkedin.com/in/janedoe"
+      },
+      {
+        "icon": "github",
+        "title": "GitHub",
+        "url": "https://github.com/janedoe"
+      }
+    ]
+  },
+  "selectedComponents": {
+    "userInfo": "professionalCard",
+    "skills": "skillsGrid",
+    "projects": "threeDCard",
+    "workExperience": "card",
+    "education": "card"
+  },
+  "sectionOrder": [
+    "personal",
+    "0ea4b7a0-ecc6-4374-9398-b6a646106021",
+    "skills",
+    "experience",
+    "projects",
+    "education"
+  ],
+  "themePreset": "sunset",
+  "skills": [
+    {
+      "name": "Python",
+      "logo": "/p3/user-files/tech/python-1759564638229.png"
+    },
+    {
+      "name": "Java",
+      "logo": "/p3/icons/java/java-original.svg"
+    },
+    {
+      "name": "JavaScript rewrew",
+      "logo": "/p3/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "React",
+      "logo": "/p3/icons/react/react-original.svg"
+    },
+    {
+      "name": "Node.js",
+      "logo": "/p3/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "/p3/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "C++",
+      "logo": "/p3/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+      "name": "Next.js",
+      "logo": "/p3/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "name": "Spring Boot",
+      "logo": "/p3/icons/spring/spring-original.svg"
+    },
+    {
+      "name": "Express.js",
+      "logo": "/p3/icons/express/express-original.svg"
+    },
+    {
+      "name": "Django",
+      "logo": "/p3/icons/django/django-original.svg"
+    },
+    {
+      "name": "PostgreSQL",
+      "logo": "/p3/icons/postgresql/postgresql-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "logo": "/p3/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "MySQL",
+      "logo": "/p3/icons/mysql/mysql-original.svg"
+    },
+    {
+      "name": "Redis",
+      "logo": "/p3/icons/redis/redis-original.svg"
+    },
+    {
+      "name": "AWS",
+      "logo": "/p3/icons/amazonwebservices/amazonwebservices-original.svg"
+    },
+    {
+      "name": "Docker",
+      "logo": "/p3/icons/docker/docker-original.svg"
+    },
+    {
+      "name": "Kubernetes",
+      "logo": "/p3/icons/kubernetes/kubernetes-original.svg"
+    },
+    {
+      "name": "Git",
+      "logo": "/p3/icons/git/git-original.svg"
+    },
+    {
+      "name": "Jenkins",
+      "logo": "/p3/icons/jenkins/jenkins-original.svg"
+    },
+    {
+      "name": "CI/CD pipelines",
+      "logo": null
+    },
+    {
+      "name": "REST APIs",
+      "logo": null
+    },
+    {
+      "name": "GraphQL",
+      "logo": "/p3/icons/graphql/graphql-original.svg"
+    },
+    {
+      "name": "Unit Testing",
+      "logo": null
+    },
+    {
+      "name": "Agile",
+      "logo": null
+    },
+    {
+      "name": "Scrum",
+      "logo": null
+    },
+    {
+      "name": "Test-Driven Development (TDD)",
+      "logo": null
+    },
+    {
+      "name": "GitHub Actions",
+      "logo": "/p3/icons/githubactions/githubactions-original.svg"
+    },
+    {
+      "name": "Supabase",
+      "logo": "/p3/icons/supabase/supabase-original.svg"
+    },
+    {
+      "name": "Vercel",
+      "logo": "/p3/icons/vercel/vercel-original.svg"
+    },
+    {
+      "name": "scikit-learn",
+      "logo": "/p3/icons/scikitlearn/scikitlearn-original.svg"
+    },
+    {
+      "name": "Flask",
+      "logo": "/p3/icons/flask/flask-original.svg"
+    },
+    {
+      "name": "React Native",
+      "logo": "/p3/icons/reactnative/reactnative-original.svg"
+    },
+    {
+      "name": "SQLite",
+      "logo": "/p3/icons/sqlite/sqlite-original.svg"
+    }
+  ],
+  "projects": [
+    {
+      "name": "React Native Focus Pals",
+      "description": "Developed Focus Pals, a gamified React Native app using Firebase backend, to boost productivity with a focus timer, collectible virtual pets that level up, and a Deep Focus Mode that rewards uninterrupted study sessions.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "Expo",
+          "logo": "/p3/icons/expo/expo-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "logo": "/p3/icons/firebase/firebase-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/p3/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p3/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Native",
+          "logo": "/p3/icons/reactnative/reactnative-original.svg"
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/react-native-focus-pals"
+        }
+      ]
+    },
+    {
+      "name": "React Memory Card",
+      "description": "Developed a React-based Memory Card game that challenges users to click unique cards without repetition, featuring a scoreboard and random card shuffling. Integrated external API data fetching to dynamically display card images and information.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "JavaScript",
+          "logo": "/p3/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p3/icons/react/react-original.svg"
+        },
+        {
+          "name": "Vite",
+          "logo": "/p3/icons/vite/vite-original.svg"
+        },
+        {
+          "name": "Hooks",
+          "logo": null
+        },
+        {
+          "name": "CSS3",
+          "logo": "/p3/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "External APIs",
+          "logo": null
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/react-memory-card"
+        },
+        {
+          "icon": "demo",
+          "title": "Live Demo",
+          "url": "https://memory-card-steel.vercel.app"
+        }
+      ]
+    },
+    {
+      "name": "React Native Weather App",
+      "description": "Developed a React Native Weather App that provides users with real-time weather updates and forecasts, leveraging Expo for streamlined development and deployment.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "Expo",
+          "logo": "/p3/icons/expo/expo-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/p3/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p3/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Native",
+          "logo": "/p3/icons/reactnative/reactnative-original.svg"
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/react-native-weather-app"
+        }
+      ]
+    },
+    {
+      "name": "Habit Tracker App",
+      "description": "Developed an iOS habit tracker app enabling users to add, remove, and customize habits with daily resets to build or break routines. Utilized Swift, SwiftUI, and SwiftData for data management and interface design.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "Swift",
+          "logo": "/p3/icons/swift/swift-original.svg"
+        },
+        {
+          "name": "SwiftUI",
+          "logo": null
+        },
+        {
+          "name": "SwiftData",
+          "logo": null
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/habit-tracker-app"
+        }
+      ]
+    },
+    {
+      "name": "React Cv App",
+      "description": "Developed a React-based CV Editor enabling users to create and manage professional resumes with sections for general info, education, and work experience through an interactive interface.",
+      "picUrl": null,
+      "technologies": [
+        {
+          "name": "JavaScript",
+          "logo": "/p3/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/p3/icons/react/react-original.svg"
+        },
+        {
+          "name": "Vite",
+          "logo": "/p3/icons/vite/vite-original.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "/p3/icons/css3/css3-original.svg"
+        }
+      ],
+      "custom_links": [
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "url": "https://github.com/Greg057/react-cv-app"
+        },
+        {
+          "icon": "demo",
+          "title": "Live Demo",
+          "url": "https://cv-app-cyan-tau.vercel.app"
+        }
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "TechWave Solutions",
+      "position": "Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Jan 2021",
+      "end_date": "Present",
+      "description": "- Designed and developed scalable microservices in Java and Node.js, reducing system **downtime by 30%**.\n- Implemented *CI/CD pipelines* with GitHub Actions and Docker, improving deployment speed by 40%.\n- Optimized database queries in PostgreSQL, cutting average response time by 25%.\n- Collaborated with a team of 8 engineers using Agile, consistently delivering features within sprint deadlines.\n- Mentored junior developers, leading to faster onboarding and reduced code review issues.",
+      "logoUrl": null,
+      "custom_links": []
+    },
+    {
+      "company": "BrightApps Inc.",
+      "position": "Junior Software Engineer",
+      "location": "San Jose, CA",
+      "start_date": "Jun 2019",
+      "end_date": "Dec 2020",
+      "description": "- Built front-end features with React and integrated REST APIs for an e-commerce platform serving 50k+ users.\n- Wrote unit and integration tests, increasing code coverage from 60% to 85%.\n- Supported migration of legacy PHP application to Node.js, improving maintainability.\n- Partnered with UX designers to enhance customer checkout flow, resulting in 15% increase in conversions.\n- Automated deployment scripts with Jenkins, cutting manual release steps by 70%.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "university": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": "2015",
+      "end_year": "2019",
+      "description": "Relevant Coursework:\nData Structures, Algorithms, Operating Systems, Databases, Machine Learning, Software Engineering.",
+      "logoUrl": null,
+      "custom_links": []
+    }
+  ],
+  "customSections": [
+    {
+      "id": "0ea4b7a0-ecc6-4374-9398-b6a646106021",
+      "section_name": "New Section",
+      "layout_type": "card",
+      "items": [
+        {
+          "secondaryTitle": "dqwdwq",
+          "dateInfo": "dwq",
+          "location": "dwqdqwd",
+          "logoUrl": null,
+          "customLinks": [
+            {
+              "icon": "reddit",
+              "title": "rewrw",
+              "url": "rewrew"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
