@@ -1,5 +1,5 @@
 import ProfessionalCardStatic from '@/components/ProfessionalCardStatic'
-import SkillsGridStatic from '@/components/SkillsGridStatic'
+import AutoRotatingCarouselStatic from '@/components/AutoRotatingCarouselStatic'
 import ThreeDCardStatic from '@/components/ThreeDCardStatic'
 import CustomSectionCardStatic from '@/components/CustomSectionCardStatic'
 import CustomSectionListStatic from '@/components/CustomSectionListStatic'
@@ -21,7 +21,7 @@ export default function Portfolio() {
           const LayoutComponent = layoutMap[section!.layout_type] || CustomSectionCardStatic
           return <LayoutComponent section={section} />
         })()}
-        {portfolioData.skills && <SkillsGridStatic skills={portfolioData.skills} />}
+        {portfolioData.skills && <AutoRotatingCarouselStatic skills={portfolioData.skills} />}
         {portfolioData.workExperience && <CustomSectionCardStatic section={{
           section_name: "Work Experience",
           layout_type: "card",
