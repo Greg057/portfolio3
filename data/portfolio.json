@@ -4,8 +4,8 @@
     "title": "Software Engineer",
     "about_me": "Detail-oriented Software Engineer with 4+ years of experience developing and maintaining scalable web applications. Skilled in modern programming languages, cloud platforms, and Agile methodologies. Strong collaborator with a track record of delivering high-quality software on time and within scope. Passionate about building user-friendly solutions and continuously learning emerging technologies such as artificial intelligence, machine learning, and cloud-native applications.",
     "location": "San Francisco, CA",
-    "avatarUrl": "/p3/user-files/avatar/random-question-but-does-anyone-have-versions-of-this-cat-v0-ya8qikz9kn0f1.webp-1759564668879.webp",
-    "cvUrl": "/p3/user-files/cv.pdf",
+    "avatarUrl": "/portfolio3/user-files/avatar/random-question-but-does-anyone-have-versions-of-this-cat-v0-ya8qikz9kn0f1.webp-1759564668879.webp",
+    "cvUrl": "/portfolio3/user-files/cv.pdf",
     "custom_links": [
       {
         "icon": "email",
@@ -39,87 +39,87 @@
     "projects",
     "education"
   ],
-  "themePreset": "sunset",
+  "themePreset": "ocean",
   "skills": [
     {
       "name": "Python",
-      "logo": "/p3/user-files/tech/python-1759564638229.png"
+      "logo": "/portfolio3/user-files/tech/python-1759564638229.png"
     },
     {
       "name": "Java",
-      "logo": "/p3/icons/java/java-original.svg"
+      "logo": "/portfolio3/icons/java/java-original.svg"
     },
     {
       "name": "JavaScript rewrew",
-      "logo": "/p3/icons/javascript/javascript-original.svg"
+      "logo": "/portfolio3/icons/javascript/javascript-original.svg"
     },
     {
       "name": "React",
-      "logo": "/p3/icons/react/react-original.svg"
+      "logo": "/portfolio3/icons/react/react-original.svg"
     },
     {
       "name": "Node.js",
-      "logo": "/p3/icons/nodejs/nodejs-original.svg"
+      "logo": "/portfolio3/icons/nodejs/nodejs-original.svg"
     },
     {
       "name": "TypeScript",
-      "logo": "/p3/icons/typescript/typescript-original.svg"
+      "logo": "/portfolio3/icons/typescript/typescript-original.svg"
     },
     {
       "name": "C++",
-      "logo": "/p3/icons/cplusplus/cplusplus-original.svg"
+      "logo": "/portfolio3/icons/cplusplus/cplusplus-original.svg"
     },
     {
       "name": "Next.js",
-      "logo": "/p3/icons/nextjs/nextjs-original.svg"
+      "logo": "/portfolio3/icons/nextjs/nextjs-original.svg"
     },
     {
       "name": "Spring Boot",
-      "logo": "/p3/icons/spring/spring-original.svg"
+      "logo": "/portfolio3/icons/spring/spring-original.svg"
     },
     {
       "name": "Express.js",
-      "logo": "/p3/icons/express/express-original.svg"
+      "logo": "/portfolio3/icons/express/express-original.svg"
     },
     {
       "name": "Django",
-      "logo": "/p3/icons/django/django-original.svg"
+      "logo": "/portfolio3/icons/django/django-original.svg"
     },
     {
       "name": "PostgreSQL",
-      "logo": "/p3/icons/postgresql/postgresql-original.svg"
+      "logo": "/portfolio3/icons/postgresql/postgresql-original.svg"
     },
     {
       "name": "MongoDB",
-      "logo": "/p3/icons/mongodb/mongodb-original.svg"
+      "logo": "/portfolio3/icons/mongodb/mongodb-original.svg"
     },
     {
       "name": "MySQL",
-      "logo": "/p3/icons/mysql/mysql-original.svg"
+      "logo": "/portfolio3/icons/mysql/mysql-original.svg"
     },
     {
       "name": "Redis",
-      "logo": "/p3/icons/redis/redis-original.svg"
+      "logo": "/portfolio3/icons/redis/redis-original.svg"
     },
     {
       "name": "AWS",
-      "logo": "/p3/icons/amazonwebservices/amazonwebservices-original.svg"
+      "logo": "/portfolio3/icons/amazonwebservices/amazonwebservices-original.svg"
     },
     {
       "name": "Docker",
-      "logo": "/p3/icons/docker/docker-original.svg"
+      "logo": "/portfolio3/icons/docker/docker-original.svg"
     },
     {
       "name": "Kubernetes",
-      "logo": "/p3/icons/kubernetes/kubernetes-original.svg"
+      "logo": "/portfolio3/icons/kubernetes/kubernetes-original.svg"
     },
     {
       "name": "Git",
-      "logo": "/p3/icons/git/git-original.svg"
+      "logo": "/portfolio3/icons/git/git-original.svg"
     },
     {
       "name": "Jenkins",
-      "logo": "/p3/icons/jenkins/jenkins-original.svg"
+      "logo": "/portfolio3/icons/jenkins/jenkins-original.svg"
     },
     {
       "name": "CI/CD pipelines",
@@ -131,7 +131,7 @@
     },
     {
       "name": "GraphQL",
-      "logo": "/p3/icons/graphql/graphql-original.svg"
+      "logo": "/portfolio3/icons/graphql/graphql-original.svg"
     },
     {
       "name": "Unit Testing",
@@ -151,31 +151,31 @@
     },
     {
       "name": "GitHub Actions",
-      "logo": "/p3/icons/githubactions/githubactions-original.svg"
+      "logo": "/portfolio3/icons/githubactions/githubactions-original.svg"
     },
     {
       "name": "Supabase",
-      "logo": "/p3/icons/supabase/supabase-original.svg"
+      "logo": "/portfolio3/icons/supabase/supabase-original.svg"
     },
     {
       "name": "Vercel",
-      "logo": "/p3/icons/vercel/vercel-original.svg"
+      "logo": "/portfolio3/icons/vercel/vercel-original.svg"
     },
     {
       "name": "scikit-learn",
-      "logo": "/p3/icons/scikitlearn/scikitlearn-original.svg"
+      "logo": "/portfolio3/icons/scikitlearn/scikitlearn-original.svg"
     },
     {
       "name": "Flask",
-      "logo": "/p3/icons/flask/flask-original.svg"
+      "logo": "/portfolio3/icons/flask/flask-original.svg"
     },
     {
       "name": "React Native",
-      "logo": "/p3/icons/reactnative/reactnative-original.svg"
+      "logo": "/portfolio3/icons/reactnative/reactnative-original.svg"
     },
     {
       "name": "SQLite",
-      "logo": "/p3/icons/sqlite/sqlite-original.svg"
+      "logo": "/portfolio3/icons/sqlite/sqlite-original.svg"
     }
   ],
   "projects": [
@@ -186,23 +186,23 @@
       "technologies": [
         {
           "name": "Expo",
-          "logo": "/p3/icons/expo/expo-original.svg"
+          "logo": "/portfolio3/icons/expo/expo-original.svg"
         },
         {
           "name": "Firebase",
-          "logo": "/p3/icons/firebase/firebase-original.svg"
+          "logo": "/portfolio3/icons/firebase/firebase-original.svg"
         },
         {
           "name": "JavaScript",
-          "logo": "/p3/icons/javascript/javascript-original.svg"
+          "logo": "/portfolio3/icons/javascript/javascript-original.svg"
         },
         {
           "name": "React",
-          "logo": "/p3/icons/react/react-original.svg"
+          "logo": "/portfolio3/icons/react/react-original.svg"
         },
         {
           "name": "React Native",
-          "logo": "/p3/icons/reactnative/reactnative-original.svg"
+          "logo": "/portfolio3/icons/reactnative/reactnative-original.svg"
         }
       ],
       "custom_links": [
@@ -220,15 +220,15 @@
       "technologies": [
         {
           "name": "JavaScript",
-          "logo": "/p3/icons/javascript/javascript-original.svg"
+          "logo": "/portfolio3/icons/javascript/javascript-original.svg"
         },
         {
           "name": "React",
-          "logo": "/p3/icons/react/react-original.svg"
+          "logo": "/portfolio3/icons/react/react-original.svg"
         },
         {
           "name": "Vite",
-          "logo": "/p3/icons/vite/vite-original.svg"
+          "logo": "/portfolio3/icons/vite/vite-original.svg"
         },
         {
           "name": "Hooks",
@@ -236,7 +236,7 @@
         },
         {
           "name": "CSS3",
-          "logo": "/p3/icons/css3/css3-original.svg"
+          "logo": "/portfolio3/icons/css3/css3-original.svg"
         },
         {
           "name": "External APIs",
@@ -263,19 +263,19 @@
       "technologies": [
         {
           "name": "Expo",
-          "logo": "/p3/icons/expo/expo-original.svg"
+          "logo": "/portfolio3/icons/expo/expo-original.svg"
         },
         {
           "name": "JavaScript",
-          "logo": "/p3/icons/javascript/javascript-original.svg"
+          "logo": "/portfolio3/icons/javascript/javascript-original.svg"
         },
         {
           "name": "React",
-          "logo": "/p3/icons/react/react-original.svg"
+          "logo": "/portfolio3/icons/react/react-original.svg"
         },
         {
           "name": "React Native",
-          "logo": "/p3/icons/reactnative/reactnative-original.svg"
+          "logo": "/portfolio3/icons/reactnative/reactnative-original.svg"
         }
       ],
       "custom_links": [
@@ -293,7 +293,7 @@
       "technologies": [
         {
           "name": "Swift",
-          "logo": "/p3/icons/swift/swift-original.svg"
+          "logo": "/portfolio3/icons/swift/swift-original.svg"
         },
         {
           "name": "SwiftUI",
@@ -319,19 +319,19 @@
       "technologies": [
         {
           "name": "JavaScript",
-          "logo": "/p3/icons/javascript/javascript-original.svg"
+          "logo": "/portfolio3/icons/javascript/javascript-original.svg"
         },
         {
           "name": "React",
-          "logo": "/p3/icons/react/react-original.svg"
+          "logo": "/portfolio3/icons/react/react-original.svg"
         },
         {
           "name": "Vite",
-          "logo": "/p3/icons/vite/vite-original.svg"
+          "logo": "/portfolio3/icons/vite/vite-original.svg"
         },
         {
           "name": "CSS3",
-          "logo": "/p3/icons/css3/css3-original.svg"
+          "logo": "/portfolio3/icons/css3/css3-original.svg"
         }
       ],
       "custom_links": [
